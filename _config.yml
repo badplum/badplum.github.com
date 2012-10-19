@@ -1,4 +1,0 @@
-baseurl: http://badplum.github.com
-markdown: rdiscount
-pygments: true
-permalink: :data/:year/:month/:day/:title.html
